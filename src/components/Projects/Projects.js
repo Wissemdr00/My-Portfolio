@@ -25,7 +25,7 @@ function Projects() {
               title="Chat App"
               description="A personal chat application built with MERN Stack (MongoDB, Express.js, React, Node.js) and Socket.io.
 Features include real-time messaging, user authentication with JWT, chat rooms, and a responsive interface for a seamless user experience."
-              ghLink="https://github.com/soumyajit4419/Chatifyhttps://github.com/Wissemdr00/chat-app-using-nodejs-and-react-socket.io"
+              ghLink="https://github.com/Wissemdr00/chat-app-using-nodejs-and-react-socket.io"
               demoLink="https://chatappwissemdev-woad.vercel.app/"
             />
           </Col>
