@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/My-Portfolio/static/css/main.e8c40c41.css",
+    "main.js": "/My-Portfolio/static/js/main.74d4204f.js",
+    "static/js/415.4d6acbeb.chunk.js": "/My-Portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/My-Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/blog.png": "/My-Portfolio/static/media/blog.0ba8837b46f92f700467.png",
+    "static/media/home-main.svg": "/My-Portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/My-Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Wissem-dridi-CV.pdf": "/My-Portfolio/static/media/Wissem-dridi-CV.aff02511f10364dd8967.pdf",
+    "static/media/chatify.png": "/My-Portfolio/static/media/chatify.4d32b63c944d4cc0533e.png",
+    "static/media/taswwera.jpg": "/My-Portfolio/static/media/taswwera.ec066f02eea61ca528ac.jpg",
+    "static/media/home-bg.jpg": "/My-Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/My-Portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/My-Portfolio/index.html",
+    "main.e8c40c41.css.map": "/My-Portfolio/static/css/main.e8c40c41.css.map",
+    "main.74d4204f.js.map": "/My-Portfolio/static/js/main.74d4204f.js.map",
+    "415.4d6acbeb.chunk.js.map": "/My-Portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/My-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8c40c41.css",
+    "static/js/main.74d4204f.js"
+  ]
+}
