@@ -4,10 +4,9 @@ import Navbar from "./components/Navbar";
 import Home from "./components/Home/Home";
 import About from "./components/About/About";
 import Projects from "./components/Projects/Projects";
-
 import Resume from "./components/Resume/ResumeNew";
 import {
-  BrowserRouter as Router,
+  HashRouter as Router, // <-- Changed BrowserRouter to HashRouter
   Route,
   Routes,
   Navigate
@@ -18,11 +17,11 @@ import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
-  const [load, upadateLoad] = useState(true);
+  const [load, updateLoad] = useState(true);
 
   useEffect(() => {
     const timer = setTimeout(() => {
-      upadateLoad(false);
+      updateLoad(false);
     }, 1200);
 
     return () => clearTimeout(timer);
@@ -41,7 +40,6 @@ function App() {
           <Route path="/resume" element={<Resume />} />
           <Route path="*" element={<Navigate to="/"/>} />
         </Routes>
-        
       </div>
     </Router>
   );
